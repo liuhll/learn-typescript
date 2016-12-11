@@ -13,3 +13,4 @@
 
 ### ECMAScript 6
 - [深度解析 ECMAScript 6](http://wiki.jikexueyuan.com/project/es-six-deeply/)
+- [阮一峰之ECMAScript 6入门](http://es6.ruanyifeng.com/#README)
